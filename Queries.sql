@@ -1,0 +1,26 @@
+
+# Queries
+
+# CLIENTS
+
+SELECT * FROM Client;
+
+# SUPPLIERS
+
+SELECT * FROM Supplier;
+
+# CATEGORIES
+
+SELECT * FROM Category;
+
+# SALES
+
+SELECT * FROM Sale;
+
+# PRODUCTS
+
+SELECT * FROM Product;
+
+# DETAIL SALE
+
+SELECT * FROM Detail_Sale;
